@@ -1,0 +1,23 @@
+$reason_behind_not_using =0;
+$reason_behind_not_using_other_value = 0;
+$future_desire =0;
+$reason_behind_not_having_future_desire =0;
+$reason_behind_not_having_future_desire_other_value = 0;
+
+$do_you_know_from_where =0;
+$available_govt_hospital =0;
+$available_central_dist_hospital =0;
+$available_matri_sonod =0;
+$available_ngo_facility =0;
+$available_upazilla_sasthokendro =0;
+$available_union_sastho_poribar_kollan_kendro =0;
+$available_satellite_clinic =0;
+$available_community_clinic =0;
+$available_ngo_and_satellite_clinic =0;
+$available_ngo_and_static_clinic =0;
+$available_private_hospital =0;
+$available_mbbs_doctor_chamber =0;
+$available_doctor_without_degrees =0;
+$available_pharmacy =0;
+$available_other =0;
+$available_other_value =0;
